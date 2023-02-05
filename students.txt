@@ -1,0 +1,6 @@
+abc,abc@123,123,111
+Mary Ting,mary@apu.edu.my,TP878878,88hG12
+Ali Imran,Ali@apu.edu.my,TP098778,789456
+Salasiah S.,sally@apu.edu.my,TP988076,598789
+Julia Juremi,julia.juremi@gmail.com,TP899785,125125
+Jonathan James,john.doe@apu.edu.my,TP830831,ax568
